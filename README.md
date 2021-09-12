@@ -1,45 +1,31 @@
 ![](C:\Users\user\Desktop\EgorRazmyslovichCV.jpg) 
 
 # EGOR RAZMYSLOVICH
-***address:*** st. Kawalerzystow 33-5, 53-004 Wroclaw, Poland
-
-***phone:*** +48 739115418
-
-***e-mail:*** [razmys@wp.pl](mailto:razmys@wp.pl)
-
-***Skype:*** Egor Razmyslovich
-
-***WhatsApp:*** +48 739115418
-
-***Viber:*** +48 739115418
++ ***address:*** st. Kawalerzystow 33-5, 53-004 Wroclaw, Poland
++ ***phone:*** +48 739115418
++ ***e-mail:*** [razmys@wp.pl](mailto:razmys@wp.pl)
++ ***Skype:*** Egor Razmyslovich
++ ***WhatsApp:*** +48 739115418
++ ***Viber:*** +48 739115418
 
 ### Skills
-*Github:*  <span style="color:black">++</span><span style="color:gray">+++</span>
-
-*Markdown:* <span style="color:black">+++</span><span style="color:gray">++</span>
-
-*SQL:*<span style="color:black">++</span><span style="color:gray">+++</span>
-
-*Python:*<span style="color:black">++</span><span style="color:gray">+++</span>
-
-*Java:*  <span style="color:black">++</span><span style="color:gray">+++</span>
++ *Github:*  <span style="color:black">++</span><span style="color:gray">+++</span>
++ *Markdown:* <span style="color:black">+++</span><span style="color:gray">++</span>
++ *SQL:*<span style="color:black">++</span><span style="color:gray">+++</span>
++ *Python:*<span style="color:black">++</span><span style="color:gray">+++</span>
++ *Java:*  <span style="color:black">++</span><span style="color:gray">+++</span>
 
 ### Work experience
 ***Engineer Mar 2004 - Dec 2020***
-
+'''
 *Belarusian industrial adjustment, Minsk, Belarus*
-
 Overall project management,
-
 Adjustment of industrial controllers,
-
 Preparation of technical documentation,
-
 Financial and material responsibility,
-
 Ability to conduct financial analysis,
-
 Quality control of work.
+'''
 
 ### Education and Qualifications
 
