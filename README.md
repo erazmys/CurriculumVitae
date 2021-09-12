@@ -17,30 +17,24 @@
 
 ### Work experience
 ***Engineer Mar 2004 - Dec 2020***
-'''
-*Belarusian industrial adjustment, Minsk, Belarus*
-Overall project management,
-Adjustment of industrial controllers,
-Preparation of technical documentation,
-Financial and material responsibility,
-Ability to conduct financial analysis,
+*Belarusian industrial adjustment, Minsk, Belarus*  
+Overall project management,  
+Adjustment of industrial controllers,  
+Preparation of technical documentation,  
+Financial and material responsibility,  
+Ability to conduct financial analysis,  
 Quality control of work.
-'''
 
 ### Education and Qualifications
 
-***Bachelor of Engineering Science***
-
-*Belarusian National Technical University, Minsk, Belarus*
-
-Information Technologies and Robotics Faculty
-
+***Bachelor of Engineering Science***  
+*Belarusian National Technical University, Minsk, Belarus*  
+Information Technologies and Robotics Faculty  
 Special attention is paid to studying of the theory and practice of electric drive and automation of
 mechanisms and technological complexes in various sectors of economy, their automation systems,
 control and diagnostics. These systems are in demand at any industrial enterprise, and also among
 the Department's objects of study are electric transport, robotics, agriculture and public
-utilities,instrumentation and machine tool industry, household appliances.
-
+utilities,instrumentation and machine tool industry, household appliances.  
 Sep 1999 - Feb 2004
 
 
