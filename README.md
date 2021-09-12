@@ -9,11 +9,11 @@
 + ***Viber:*** +48 739115418
 
 ### Skills
-+ *Github:*  <span style="color:black">++</span><span style="color:gray">+++</span>
-+ *Markdown:* <span style="color:black">+++</span><span style="color:gray">++</span>
-+ *SQL:*<span style="color:black">++</span><span style="color:gray">+++</span>
-+ *Python:*<span style="color:black">++</span><span style="color:gray">+++</span>
-+ *Java:*  <span style="color:black">++</span><span style="color:gray">+++</span>
++ *Github:*  <span style="color:green">++</span><span style="color:gray">+++</span>
++ *Markdown:* <span style="color:green">+++</span><span style="color:gray">++</span>
++ *SQL:*<span style="color:green">++</span><span style="color:gray">+++</span>
++ *Python:*<span style="color:green">++</span><span style="color:gray">+++</span>
++ *Java:*  <span style="color:green">++</span><span style="color:gray">+++</span>
 
 ### Work experience
 ***Engineer Mar 2004 - Dec 2020***
