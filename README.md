@@ -1,4 +1,4 @@
-![](C:\Users\user\Desktop\EgorRazmyslovichCV.jpg) 
+![](https://photos.app.goo.gl/gBYbmdDXaBjxCaE39) 
 
 # EGOR RAZMYSLOVICH
 + ***address:*** st. Kawalerzystow 33-5, 53-004 Wroclaw, Poland
